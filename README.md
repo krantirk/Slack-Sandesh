@@ -11,7 +11,7 @@ This is a simple python library to send messages to Slack using webhook urls.
 You can install the bleeding edge version of this library by doing:
 
 ```
-git clone git@github.com:krantirk/sandesh.git
+git clone https://github.com/krantirk/Slack-Sandesh.git
 cd sandesh
 python setup.py install
 ```
